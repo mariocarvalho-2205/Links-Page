@@ -32,8 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 DevLinks é um agregador de links para usar como cartão de visitas.
+Confira o projeto nesse link: https://mariocarvalho-2205.github.io/Links-Page/
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-https://mariocarvalho-2205.github.io/Links-Page/
+
